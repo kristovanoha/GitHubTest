@@ -5,5 +5,9 @@ package com.example.githubtest.githubtest;
  */
 public class TestNovyFile {
 
+    private void neco ()
+    {
+        int a = 4;
+    }
 }
 
