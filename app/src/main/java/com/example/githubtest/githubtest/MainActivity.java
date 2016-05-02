@@ -37,6 +37,8 @@ public class MainActivity extends AppCompatActivity {
 
     private void  nejakeMetoda(){
         int i = 4 + 5;
+
+        int a = 7 +8;
     }
 
 
